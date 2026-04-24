@@ -13,10 +13,102 @@
     <p>Excel academy is an <i>oxford curriculum</i> based school situted in Dhaka.
         Established in 2013, the school aims to provide world-class education , preparing children for a bright future.
     <p>
-        As of 2025, the school is one of the fastest growing in Dhaka, with over 1,500 students spread across 3 buildings.
+        As of 2025, the school is one of the fastest growing in Dhaka, with over 1,500 students spread across 3
+        buildings.
     <p>
-
-    </p>
+        Here is what an aversge day looks like for <b>grade 6 </b>Excel students:
+    <table border="5" <tr>
+        <th>No.</th>
+        <th>Timing</th>
+        <th>Sun</th>
+        <th>Mon</th>
+        <th>Tues</th>
+        <th>Wed</th>
+        <th>Thurs</th>
+        </tr>
+        <tr>
+            > <td>1</td>
+            <td>8:30</td>
+            <td>Algebra</td>
+            <td>Drill</td>
+            <td>Language</td>
+            <td>Bangla1</td>
+            <td>Geometry</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>8:40</td>
+            <td>Language</td>
+            <td>Physics</td>
+            <td>Arithmetic</td>
+            <td>Biology</td>
+            <td>Geography</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>9:20</td>
+            <td>Geography</td>
+            <td>Algebra</td>
+            <td>Bangla 2</td>
+            <td>Arithmetic</td>
+            <td>Language</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>10:00</td>
+            <td>Physics</td>
+            <td>Chemistry</td>
+            <td>Biology</td>
+            <td>Chemistry</td>
+            <td>FreeWriting</td>
+        </tr>
+        <tr>
+            <td>----</td>
+            <td><b>10:40</b></td>
+            <td><b>BREAK</b></td>
+            <td><b>BREAK</b></td>
+            <td><b>BREAK</b></td>
+            <td><b>BREAK</b></td>
+            <td><b>BREAK</b></td>
+        </tr>
+         <tr>
+            <td>5</td>
+            <td>11:00</td>
+            <td>Biology</td>
+            <td>Literature</td>
+            <td>Chemistry</td>
+            <td>Literature</td>
+            <td>Physics</td>
+        </tr>
+         <tr>
+            <td>6</td>
+            <td>11:40</td>
+            <td>Bangla 2</td>
+            <td>Computing</td>
+            <td>FreeWriting</td>
+            <td>Geometry</td>
+            <td>Literature</td>
+        </tr>
+         <tr>
+            <td>7</td>
+            <td>12:20</td>
+            <td>Literature</td>
+            <td>Music</td>
+            <td>History</td>
+            <td>Language</td>
+            <td>Bangla1</td>
+        </tr>
+         <tr>
+            <td>8</td>
+            <td>1:00</td>
+            <td>BD Studies</td>
+            <td><b>ECA</b></td>
+            <td>Games</td>
+            <td>Art</td>
+            <td>History</td>
+        </tr>
+        
+        </p>
 </body>
 
 </html>
