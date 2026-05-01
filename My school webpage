@@ -3,12 +3,12 @@
 
 <head>
     <title>
-        Excel Academy webpage
+       Excel Academy webpage
     </title>
 </head>
 
 <body>
-    <h1>Excel Academy</h1>
+    <h1><center>Excel Academy</center></h1>
     <br>
     <p>Excel academy is an <i>oxford curriculum</i> based school situted in Dhaka.
         Established in 2013, the school aims to provide world-class education , preparing children for a bright future.
@@ -16,18 +16,19 @@
         As of 2025, the school is one of the fastest growing in Dhaka, with over 1,500 students spread across 3
         buildings.
     <p>
-        Here is what an aversge day looks like for <b>grade 6 </b>Excel students:
-    <table border="5" <tr>
-        <th>No.</th>
-        <th>Timing</th>
-        <th>Sun</th>
-        <th>Mon</th>
-        <th>Tues</th>
-        <th>Wed</th>
-        <th>Thurs</th>
+        Here is what an average day looks like for <b>grade 6 </b>Excel students:
+    <table border="5">
+        <tr>
+            <th>No.</th>
+            <th>Timing</th>
+            <th>Sun</th>
+            <th>Mon</th>
+            <th>Tues</th>
+            <th>Wed</th>
+            <th>Thurs</th>
         </tr>
         <tr>
-            > <td>1</td>
+            <td>1</td>
             <td>8:30</td>
             <td>Algebra</td>
             <td>Drill</td>
@@ -71,7 +72,7 @@
             <td><b>BREAK</b></td>
             <td><b>BREAK</b></td>
         </tr>
-         <tr>
+        <tr>
             <td>5</td>
             <td>11:00</td>
             <td>Biology</td>
@@ -80,7 +81,7 @@
             <td>Literature</td>
             <td>Physics</td>
         </tr>
-         <tr>
+        <tr>
             <td>6</td>
             <td>11:40</td>
             <td>Bangla 2</td>
@@ -89,7 +90,7 @@
             <td>Geometry</td>
             <td>Literature</td>
         </tr>
-         <tr>
+        <tr>
             <td>7</td>
             <td>12:20</td>
             <td>Literature</td>
@@ -98,7 +99,7 @@
             <td>Language</td>
             <td>Bangla1</td>
         </tr>
-         <tr>
+        <tr>
             <td>8</td>
             <td>1:00</td>
             <td>BD Studies</td>
@@ -107,8 +108,20 @@
             <td>Art</td>
             <td>History</td>
         </tr>
-        
-        </p>
+    </table>
+    <a href="https://excelacademy.edu.bd/">Learn more </a> <br>
+    by visiting the link above you can learn about:
+    <ul>
+        <li> Our core values</li>
+        <li> Our achievements</li>
+        <li> Our mission </li>
+        <li> Our dreams</li>
+    </ul>
+    The following are some media files of Excel Academy:
+    <img src="school image.jpeg" width="500">
+    <video width="500" height="550" controls autoplay>
+<source src="school video.html" type="video/jpeg">
+    </video>
 </body>
 
 </html>
