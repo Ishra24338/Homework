@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <form>
+        <fieldset>
+            <legend>
+                <h1>
+                    <center>School Admission Form </center>
+                </h1>
+            </legend>
+            <label> Full name:</label>
+            <input type="text" name="Full name" id="Full name"><br><br>
+             <label> Father's name:</label>
+            <input type="text" name="Father's name" id="Father's name"><br><br>
+             <label> Mother's name:</label>
+            <input type="text" name="Mother's name" id="Mother's name"><br><br>
+              <label> <b>Grade:</b></label><br>
+               <label> 1<sup>st</sup></label><input type="radio" name="grade" id="first"> <br>
+               <label> 2<sup>nd</sup></label><input type="radio" name="grade" id="second"> <br>
+               <label> 3<sup>rd</sup></label><input type="radio" name="grade" id="third"> <br>
+               <label> 4<sup>th</sup></label><input type="radio" name="grade" id="fourth"> <br>
+               <label> 5<sup>th</sup></label><input type="radio" name="grade" id="fifth"> <br>
+               <label> 6<sup>th</sup></label><input type="radio" name="grade" id="sixth"> <br>
+               <label> 7<sup>th</sup></label><input type="radio" name="grade" id="seventh"> <br>
+               <label> 8<sup>th</sup></label><input type="radio" name="grade" id="eighth"> <br>
+               <label> 9<sup>th</sup></label><input type="radio" name="grade" id="ninth"> <br>
+               <label> 10<sup>th</sup></label><input type="radio" name="grade" id="tenth"> <br><br>
+               <label> Contact no:</label>
+            <input type="text" name="contact" id="number"><br><br> 
+            <label> Email id:</label>
+            <input type="email" name="Email" id="Email"><br><br>
+        </fieldset>
+    </form>
+</body>
+
+</html>
