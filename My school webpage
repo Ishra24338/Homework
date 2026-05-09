@@ -2,9 +2,18 @@
 <html>
 
 <head>
-    <title>
-       Excel Academy webpage
-    </title>
+ <style>
+    h1{
+        color: royalblue;
+    }
+    body {
+        background-color: rgb(216, 249, 255);
+    }
+    h3{
+        color: rgb(1, 30, 94);
+    }
+
+ </style>
 </head>
 
 <body>
@@ -18,7 +27,7 @@
     <p>
         Here is what an average day looks like for <b>grade 6 </b>Excel students:
     <table border="5">
-        <tr>
+        <tr bgcolor="skyblue">
             <th>No.</th>
             <th>Timing</th>
             <th>Sun</th>
@@ -103,7 +112,7 @@
             <td>8</td>
             <td>1:00</td>
             <td>BD Studies</td>
-            <td><b>ECA</b></td>
+            <td color="navy"><b>ECA <id:123></b></td>
             <td>Games</td>
             <td>Art</td>
             <td>History</td>
@@ -119,9 +128,10 @@
     </ul>
     The following are some media files of Excel Academy:
     <img src="school image.jpeg" width="500">
-    <video width="500" height="550" controls autoplay>
-<source src="school video.html" type="video/jpeg">
+    <video width="500" height="300" controls autoplay>
+<source src="school.mp4" type="video/mp4">
     </video>
+    <h3>N.B. _For more information, please contact us at 01344202599 </h3>
 </body>
 
 </html>
